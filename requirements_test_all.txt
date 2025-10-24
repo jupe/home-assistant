@@ -81,7 +81,7 @@ PyQRCode==1.2.1
 PyRMVtransport==0.3.3
 
 # homeassistant.components.switchbot
-PySwitchbot==0.71.0
+PySwitchbot==0.72.0
 
 # homeassistant.components.syncthru
 PySyncThru==0.8.0
@@ -176,7 +176,7 @@ aioairq==0.4.7
 aioairzone-cloud==0.7.2
 
 # homeassistant.components.airzone
-aioairzone==1.0.1
+aioairzone==1.0.2
 
 # homeassistant.components.alexa_devices
 aioamazondevices==6.4.6
@@ -1932,7 +1932,7 @@ pypoint==3.0.0
 pyportainer==1.0.4
 
 # homeassistant.components.probe_plus
-pyprobeplus==1.1.1
+pyprobeplus==1.1.2
 
 # homeassistant.components.profiler
 pyprof2calltree==1.4.5
